@@ -1,0 +1,13 @@
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\bin\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.exe
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\bin\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.deps.json
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\bin\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.runtimeconfig.json
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\bin\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.runtimeconfig.dev.json
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\bin\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.dll
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\bin\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.pdb
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.AssemblyInfo.cs
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.dll
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.pdb
+C:\Users\Justin\source\repos\GC_Lab11_ClassUML_notGraded\GC_Lab11_ClassUML_notGraded\obj\Debug\netcoreapp3.1\GC_Lab11_ClassUML_notGraded.genruntimeconfig.cache
